@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FAZIP Extractor</string>
+    <string name="title_version">FAZIP Extractor v1.1.1</string>
+    <string name="btn_select_zip">Select ZIP Archive</string>
+    <string name="tv_zip_not_selected">Archive not selected</string>
+    <string name="btn_select_dest">Select Destination Folder</string>
+    <string name="tv_dest_not_selected">Folder not selected</string>
+    <string name="btn_extract">EXTRACT</string>
+    <string name="btn_readme_missing">README.md not found</string>
+    <string name="btn_readme_found">Open README.md</string>
+
+    <string name="toast_success">Extracted successfully!</string>
+    <string name="toast_wrong_password">Wrong password!</string>
+    <string name="toast_cancelled">Extraction cancelled</string>
+    <string name="toast_error_prefix">Error: %1$s</string>
+
+    <string name="dialog_encrypted_title">Archive is encrypted!</string>
+    <string name="dialog_encrypted_msg">Enter password:</string>
+    <string name="dialog_hint_password">Password</string>
+    <string name="dialog_ok">OK</string>
+    <string name="dialog_cancel">CANCEL</string>
+
+    <string name="btn_stop">STOP</string>
+    <string name="err_no_dest_access">No access to destination folder</string>
+    <string name="err_zip_slip">Zip Slip blocked: invalid path %1$s</string>
+    <string name="err_create_dir">Failed to create folder %1$s</string>
+    <string name="err_create_file">Failed to create file %1$s</string>
+
+    <string name="progress_percent_format">%1$d%%</string>
+    <string name="current_file_format">%1$s…</string>
+</resources>

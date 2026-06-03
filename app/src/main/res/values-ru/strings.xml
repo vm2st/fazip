@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FAZIP Extractor</string>
+    <string name="title_version">FAZIP Extractor v1.1.1</string>
+    <string name="btn_select_zip">Выбрать ZIP архив</string>
+    <string name="tv_zip_not_selected">Архив не выбран</string>
+    <string name="btn_select_dest">Выбрать папку назначения</string>
+    <string name="tv_dest_not_selected">Папка не выбрана</string>
+    <string name="btn_extract">ИЗВЛЕЧЬ</string>
+    <string name="btn_readme_missing">README.md не обнаружен</string>
+    <string name="btn_readme_found">Открыть README.md</string>
+
+    <string name="toast_success">Успешно распаковано!</string>
+    <string name="toast_wrong_password">Неверный пароль!</string>
+    <string name="toast_cancelled">Распаковка прервана</string>
+    <string name="toast_error_prefix">Ошибка: %1$s</string>
+
+    <string name="dialog_encrypted_title">Архив зашифрован!</string>
+    <string name="dialog_encrypted_msg">Введите пароль:</string>
+    <string name="dialog_hint_password">Пароль</string>
+    <string name="dialog_ok">ОК</string>
+    <string name="dialog_cancel">ОТМЕНА</string>
+
+    <string name="btn_stop">СТОП</string>
+    <string name="err_no_dest_access">Нет доступа к папке назначения</string>
+    <string name="err_zip_slip">Блокировка Zip Slip: неверный путь %1$s</string>
+    <string name="err_create_dir">Не удалось создать папку %1$s</string>
+    <string name="err_create_file">Не удалось создать файл %1$s</string>
+
+    <string name="progress_percent_format">%1$d%%</string>
+    <string name="current_file_format">%1$s…</string>
+</resources>
